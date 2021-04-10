@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "super_mario_maker_1_int_ids_to_course_ids"
+version = "0.1.0"
+description = "converts super mario maker 1 integer IDs to the hex course code format"
+authors = ["Mark Grandi <markgrandi@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+arrow = "^1.0.3"
+attrs = "^20.3.0"
+logging_tree = "^1.9"
+
+[tool.poetry.dev-dependencies]
+wheel = "^0.36.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
