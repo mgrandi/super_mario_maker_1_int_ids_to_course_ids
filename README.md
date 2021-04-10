@@ -1,6 +1,6 @@
 # super_mario_maker_1_int_ids_to_course_ids
 
-a quick script to convert super mario maker 1 integer ids to the course IDs you see in game
+a quick script to convert super mario maker 1 integer IDs to the course IDs you see in game
 
 see this page for more information: https://github.com/kinnay/NintendoClients/wiki/SMM-Code-Generation
 
